@@ -9,14 +9,7 @@
 				"inputs": [],
 				"name": "fund",
 				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "withdraw",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "payable",
 				"type": "function"
 			}
 		],
@@ -48,11 +41,11 @@
 	},
 	"sources": {
 		"lesson-4/contracts/FundMe.sol": {
-			"keccak256": "0xed310f4c3604b195e8d933832b749cbc252d8ebddce5343ecc413e24daac69ee",
+			"keccak256": "0xbe502a87d8bd02396d7820f1633e3bb44ed074239c92725e46777b1d3c3a8b8c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://eab4de5e5395f7552761f1b4f8ac2d405b006df6f65749012c3bc30fd9781454",
-				"dweb:/ipfs/QmPFLN3b43QAN8UHzf5ePrGmU5CTZYnJTEsPTggk34dxjP"
+				"bzz-raw://28927505721db85d1cfe4ef7883a60274859b7f5e66ef0eae53bdfe65d139368",
+				"dweb:/ipfs/QmR1BxrxfCeaShepcYo1JXaYS9TwKBrFgpQpFtZR3KphG5"
 			]
 		}
 	},
