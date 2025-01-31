@@ -10,7 +10,7 @@ import "./PriceConverter.sol";
 contract FundMe {
     using PriceConverter for uint256;
 
-    uint256 public minimumUSD = 50 * 1e18;
+    uint256 public minimumUSD = 10 * 1e18;
 
     address[] public funders;
     mapping(address => uint256) public adressToFundedAmount;
